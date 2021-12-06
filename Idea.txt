@@ -1,0 +1,9 @@
+
+Todavia faltan muchas funcionalidades mas a la clase Gate_Generator
+Todavia falta la funcion modify en Gates_Generator
+
+Modificar conect, tiene problemas
+Tiene que solo aceptar puertas y entradas que esten definidas en el circuito ,no cualquiera
+Y luego concentrate en copy
+En Truth_Table hay que actualizar los valores dde entrada para producir la salida de cada mundo posible en el
+circuito
