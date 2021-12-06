@@ -169,4 +169,4 @@ def main():
     circuito.copy(circuito.gates,[entrada3,entrada4])
     print(circuito.outputs)
 if __name__=="__main__":
-    main()
+    main
